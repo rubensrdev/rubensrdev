@@ -2,7 +2,7 @@
 - 👀 I’m interested in development in Apple environments with Swift and SwiftUI.
 - 🌱 I’m currently learning Swift, SwiftUI, Swift Data and Swift Testing.
 - 👨🏻‍🎓 I have completed the Swift Developer Program 2024 at Apple Coding Academy.
-- 🥷🏻 Codewars rank badge: ![image](https://www.codewars.com/users/isthebetadev/badges/micro?theme=light)
+- 🥷🏻 Codewars rank badge: ![image](https://www.codewars.com/users/rubensrdev/badges/micro?theme=light)
 - 📫 How to reach me: ruben.sr.apple@gmail.com - https://www.linkedin.com/in/rubenseguraromo/
 - ⚡ Fun fact: science fiction reader, board game and video game geek.
 
