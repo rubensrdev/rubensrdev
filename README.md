@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rubensrdev
-- 🚀 Now working on publishing my first apps to the App Store.
 - 👀 I’m interested in development in Apple environments with Swift and SwiftUI.
 - 🌱 I’m currently learning Swift, SwiftUI, Swift Data and Swift Testing.
 - 👨🏻‍🎓 I have completed the Swift Developer Program 2024 at Apple Coding Academy.
