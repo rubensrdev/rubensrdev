@@ -6,7 +6,7 @@
 - 📫 How to reach me: ruben.sr.apple@gmail.com - https://www.linkedin.com/in/rubenseguraromo/
 - ⚡ Fun fact: science fiction reader, board game and video game geek.
 
-> 🚀 **Now working on publishing my first apps to the App Store.**
+> 🚀 **Now working on publishing my first apps on the App Store as an indie developer.**
 
 <!---
 rubensrdev/rubensrdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
