@@ -5,7 +5,7 @@
 - 🤖 Exploring Agentic Engineering, AI-Assisted Software Development, Model Context Protocol (MCP), and AI-powered workflows for Apple platforms.
 - 🔍 Currently experimenting with Claude Code, OpenCode, Xcode Coding Intelligence, MCP Servers, embeddings, and semantic search in Swift.
 - 📫 How to reach me: ruben.sr.apple@gmail.com · https://www.linkedin.com/in/rubenseguraromo/ · https://rubensegura.dev
-- ⚡ Fun fact: science fiction reader, board game enthusiast, and video game geek.
+- ⚡ Fun fact: science fiction reader, board game enthusiast and video game geek.
 
 > 🚀 **Currently building and publishing my first apps on the App Store as an indie developer.**
 
