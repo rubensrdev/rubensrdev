@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rubensrdev
 - 🍎 Developer in Apple environments focused on building native applications with Swift and SwiftUI.
+- 📱 Creator of **BookLog Journal**, a native iOS reading log built with Swift 6, SwiftUI and SwiftData — [available on the App Store](https://apps.apple.com/app/id6804451028).
 - 👀 Interested in software architecture, code quality, testing, accessibility, and modern Apple development practices.
 - 👨🏻‍🎓 Completed the Swift Developer Program 2024, Swift Accessibility Program 2025 and Swift Agentic Engineering Program 2026 at Apple Coding Academy.
 - 🤖 Exploring Agentic Engineering, AI-Assisted Software Development, Model Context Protocol (MCP), and AI-powered workflows for Apple platforms.
